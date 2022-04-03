@@ -18,5 +18,13 @@ Merged the wikipedia movies data with Kaggle data
 
 Loaded the movied database created by merged files into PgAdmin
 
-Used Jupyter Notebook, Python 3.7 and PgAdmin 4 software.
+The following shows how many rows loaded into the database.
+
+![movies_query.png](/resource/movies_query.png)
+
+
+
+
+![ratings_query.png](/resource/ratings_query.png)
+
  
